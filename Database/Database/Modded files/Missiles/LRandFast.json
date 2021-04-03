@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 901,
+  "Name": "$AutomatedReloader_S",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1057,
+  "Icon": "focus1",
+  "Color": "#A0A0FF",
+  "Layout": "1",
+  "CellType": "2",
+  "PossibleModifications": [
+    1,
+    2
+  ]
+}

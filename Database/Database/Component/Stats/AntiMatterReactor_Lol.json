@@ -1,0 +1,9 @@
+{
+  "ItemType": 11,
+  "Id": 1000,
+  "Type": 1,
+  "EnergyPoints": 1000000.0,
+  "EnergyRechargeRate": 70000.0,
+  "Weight": -1000000.0,
+  "AlterWeaponPlatform": 1
+}

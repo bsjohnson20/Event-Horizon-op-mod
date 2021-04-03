@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 1003,
+  "Name": "Inertial_Nullifier",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 1052,
+  "Icon": "inertial2",
+  "Color": "#80C0FF",
+  "Layout": "1",
+  "CellType": "2",
+  "PossibleModifications": [
+    2
+  ]
+}

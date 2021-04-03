@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 250,
+  "Name": "$HeavyLightningCannon",
+  "Description": "hmm",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Icon": "shock1",
+  "Color": "#3FE9FF",
+  "Layout": "0000000000000010",
+  "CellType": "4",
+  "WeaponId": 100,
+  "AmmunitionId": 102,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    6,
+    5,
+    16,
+    2,
+    7,
+    1
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "ItemType": 16,
+  "Id": 2332323,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 4,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1001,
+  "Name": "$RangemasterUnit_Mega",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1051,
+  "Icon": "range1",
+  "Color": "#FFFFA0",
+  "Layout": "1",
+  "CellType": "2",
+  "PossibleModifications": [
+    1,
+    2
+  ]
+}
